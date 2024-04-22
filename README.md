@@ -18,3 +18,8 @@ Use either the VM’s IP address or a domain name as the URL.
 
  lamp.sh
   This script contains a PHP application from GitHub, with installed necessary packages, and configured Apache web server and MySQL. 
+
+ ## Here the images
+
+  ![vagrant-file](./vagrant.png/laraval%20A.PNG)
+  [vagrant-file](./vagrant.png/laravel%20B.PNG)
